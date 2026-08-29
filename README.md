@@ -1,312 +1,360 @@
-ElevateHR --- AI-Driven HR Analytics Engine
+::: {align="center"}
+
+⚡ ElevateHR
+
+AI-Driven HR Analytics Engine
 
 Unlock the real potential of your workforce.
 
-ElevateHR is an AI-powered HR analytics platform designed to transform
-static employee records into actionable workforce intelligence. It helps
-HR teams and organizational leaders understand employee performance,
-identify skill gaps, discover promotion opportunities, and build smarter
-learning and development plans.
+Transform employee data into intelligent insights, skill intelligence,
+promotion recommendations, and personalized growth paths.
 
-The platform combines AI-driven analytics, skill mapping, promotion
-insights, and workforce intelligence in a modern, high-performance
-interface.
+<br/>{=html}
 
-🚀 Overview
 
-Traditional HR systems often store employee information without turning
-it into meaningful insights. ElevateHR bridges that gap by analyzing
-employee skills, experience, performance, and development needs to
-provide a clearer picture of workforce potential.
 
-What ElevateHR Provides
 
-📊 Dynamic employee performance analytics
 
-🧠 AI-assisted talent and promotion analysis
+:::
 
-🎯 Skill-gap identification
+✦ What is ElevateHR?
 
-📚 Personalized learning recommendations
+ElevateHR is a modern AI-powered HR analytics platform built to help
+organizations understand their workforce beyond traditional spreadsheets
+and static employee records.
 
-🚀 Promotion-readiness insights
+It analyzes employee skills, experience, performance indicators, and
+development requirements to generate actionable insights for HR teams
+and organizational leaders.
 
-👥 Workforce and team intelligence
+Employee data shouldn't just be stored. It should drive better
+decisions.
 
-🔍 Skill coverage and alignment analysis
+🚀 Why ElevateHR?
 
-⚡ Fast, visual HR decision-making
+Traditional HR workflows often involve:
 
-💬 Feedback collection for continuous improvement
+Employee Records → Manual Analysis → Spreadsheets → Delayed Decisions
 
-✨ Key Features
+ElevateHR turns that process into:
 
-1. AI-Driven Employee Analysis
+Employee Data
+      ↓
+AI Analysis Engine
+      ↓
+┌──────────────────────────────────────┐
+│ Skill Mapping                        │
+│ Promotion Intelligence               │
+│ Skill Gap Detection                  │
+│ Learning Recommendations             │
+│ Workforce Insights                   │
+└──────────────────────────────────────┘
+      ↓
+Smarter HR Decisions
 
-Convert employee records into meaningful insights instead of relying
-only on spreadsheets and manual evaluation.
+✨ Core Features
 
-The analytics engine can evaluate:
+<table>
 
-Current role
+<tr>
 
-Experience
+<td width="50%">
 
-Technical skills
+🧠 AI Talent Intelligence
+
+Analyze employee profiles and generate meaningful workforce insights
+using AI-driven analytics.
+
+Performance insights
 
 Skill alignment
 
-Performance indicators
+Career progression
 
 Promotion readiness
 
-Development requirements
+Development opportunities
 
-2. Promotion Intelligence
+</td>
 
-ElevateHR provides AI-assisted promotion insights to help HR teams
-identify employees who may be ready for their next role.
+<td width="50%">
 
-Example insights include:
+🎯 Promotion Intelligence
 
-Promotion readiness score
+Identify employees who demonstrate strong alignment with their target
+roles.
 
-Skill alignment percentage
+Promotion-readiness scoring
 
 Leadership indicators
 
-Recommended training
-
-Suggested career progression
-
-Strength and development areas
-
-Important: AI recommendations should support HR decision-making
-rather than replace human judgment.
-
-3. Skill Mapping
-
-The platform visualizes employee capabilities and compares them against
-target roles.
-
-This makes it easier to identify:
-
-Existing strengths
-
-Missing skills
-
 Role compatibility
 
-Training requirements
-
-Potential career paths
-
-4. Learning & Development Recommendations
-
-Instead of manually identifying training requirements, ElevateHR can
-connect detected skill gaps with relevant learning recommendations.
-
-This helps organizations create more targeted employee development
-plans.
-
-5. Workforce Intelligence
-
-The platform is designed to give HR leaders a broader view of their
-teams, including:
-
-Team collaboration
-
-Skill distribution
-
-Workforce capabilities
-
-Employee growth opportunities
-
-Retention-related skill gaps
-
-🖥️ Platform Experience
-
-Hero Dashboard
-
-The landing experience introduces ElevateHR as an AI-driven HR analytics
-engine with a clear focus on workforce potential, speed, and intelligent
-decision-making.
-
-Employee Analytics
-
-Employee cards provide a quick overview of:
-
-Employee name
-
-Current designation
-
-Years of experience
-
-Core skills
-
-Analytics score
-
-Selecting an employee can display a deeper AI-generated analysis.
-
-AI Analysis Panel
-
-The analysis interface presents:
-
-Employee input
-
-Recommendation status
-
-Key insights
-
-Skill coverage
+Career-path recommendations
 
 Training actions
 
-Promotion path
+</td>
 
-Inference/security status
+</tr>
 
-Why ElevateHR
+<tr>
 
-The platform organizes its major capabilities into dedicated
-intelligence areas such as:
+<td width="50%">
 
-Intelligence --- automated workforce insights
+🧩 Skill Mapping
 
-Network --- team and collaboration intelligence
+Create a clear picture of employee capabilities and compare them with
+target-role requirements.
 
-Retention --- skill-gap and development insights
+Skill coverage
 
-Feedback System
+Missing skills
 
-A dedicated feedback form allows users to submit:
+Technical strengths
+
+Role alignment
+
+Team capability mapping
+
+</td>
+
+<td width="50%">
+
+📚 Learning Recommendations
+
+Turn detected skill gaps into actionable development plans.
+
+Personalized learning
+
+Training recommendations
+
+Upskilling paths
+
+Leadership development
+
+Continuous growth
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+👥 Workforce Intelligence
+
+Understand workforce capabilities at both employee and team level.
+
+Team skill distribution
+
+Collaboration patterns
+
+Capability analysis
+
+Workforce trends
+
+Retention insights
+
+</td>
+
+<td width="50%">
+
+💬 Feedback System
+
+Collect insights directly from platform users.
 
 Feature requests
 
-Suggestions
-
 Bug reports
+
+Suggestions
 
 Product feedback
 
-🧩 Core Workflow
+Continuous improvement
 
-Employee Data
-     │
-     ▼
-Data Processing
-     │
-     ▼
-Skill & Performance Analysis
-     │
-     ▼
-AI Analytics Engine
-     │
-     ├──────────────► Skill Gap Detection
-     │
-     ├──────────────► Promotion Analysis
-     │
-     ├──────────────► Learning Recommendations
-     │
-     └──────────────► Workforce Insights
-                         │
-                         ▼
-                 HR Decision Support
+</td>
 
-📈 Example Analytics
+</tr>
 
-A typical employee analysis can contain information such as:
+</table>
 
-Metric             Example
+🖥️ Platform Preview
 
-Employee Score     94%
-Skill Coverage     98%
-Experience         6 years
-Promotion Status   Highly Recommended
-Training           Advanced Leadership
-Career Path        Next-level leadership role
+::: {align="center"}
 
-These values are examples for demonstrating the product experience and
-should not be treated as real employee assessments.
+Hero Experience
 
-🎨 Design System
 
-ElevateHR uses a bold, modern analytics aesthetic focused on clarity and
-performance.
 
-Visual Direction
+Employee Analytics
 
-Dark/obsidian interface
 
-High-contrast typography
 
-Neon pink/red accents
+Why ElevateHR
 
-Orange action buttons
 
-Subtle grid backgrounds
 
-Glassmorphism-inspired panels
+About ElevateHR
 
-Terminal-inspired AI analysis sections
 
-Responsive cards and dashboards
 
-The interface is designed to feel like a combination of an enterprise
-HR platform and an AI operations console.
+User Feedback
 
-🛠️ Suggested Technology Stack
 
-The project can be implemented using a modern full-stack architecture.
+:::
+
+Note: Add the screenshots to docs/screenshots/ using the
+filenames above. If your project uses different filenames, update the
+image paths accordingly.
+
+📊 Example Employee Intelligence
+
+A typical employee analysis can look like this:
+
+Intelligence                      Example
+
+Experience                    6 Years
+Analytics Score                 94%
+Skill Coverage                  98%
+Promotion Readiness    ⭐ Highly Recommended
+Development Action      Leadership Training
+Career Path              Senior Leadership
+
+🔎 AI Insight Example
+
+🚀 HIGHLY RECOMMENDED FOR PROMOTION
+
+Employee ranks among the top-performing members
+of the engineering division.
+
+KEY INSIGHTS
+→ Strong technical leadership
+→ High skill alignment
+→ Excellent deep-learning expertise
+→ Leadership development recommended
+
+PROMOTION PATH
+→ Ready for the next leadership level
+
+These values are illustrative examples for demonstrating the platform
+and should not be treated as real employee assessments.
+
+⚙️ How It Works
+
+01 --- Employee Data
+
+Employee information such as experience, role, skills, and performance
+indicators enters the system.
+
+02 --- Data Processing
+
+The platform processes and structures the information for analytics.
+
+03 --- Skill Intelligence
+
+Skills are mapped against roles and organizational requirements.
+
+04 --- AI Analysis
+
+The analytics engine evaluates the available information and generates
+insights.
+
+05 --- Recommendations
+
+The system produces promotion, training, skill-gap, and development
+recommendations.
+
+06 --- HR Decision Support
+
+HR leaders receive a visual and actionable overview to support human
+decision-making.
+
+🧬 Intelligence Modules
+
+┌─────────────────────────────────────────┐
+│             ELEVATEHR ENGINE             │
+└────────────────────┬────────────────────┘
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+  INTELLIGENCE     NETWORK      RETENTION
+       │             │             │
+       ▼             ▼             ▼
+  AI Analysis     Team Map     Skill Gaps
+  Skill Gaps      Relations    Learning
+  Promotion       Directory    Engagement
+       │             │             │
+       └─────────────┼─────────────┘
+                     ▼
+              WORKFORCE INSIGHTS
+
+🎨 Design Philosophy
+
+ElevateHR follows a high-energy AI operations aesthetic designed
+around clarity, speed, and visual hierarchy.
+
+Visual Language
+
+🌑 Obsidian / dark interface
+
+🔴 Neon red & pink accents
+
+🟠 High-energy orange CTAs
+
+▦ Subtle grid backgrounds
+
+🖥️ Terminal-inspired analytics panels
+
+✦ Minimal glassmorphism
+
+📊 Data-focused cards
+
+⚡ Strong typography and contrast
+
+The goal is to make an HR analytics platform feel less like a
+spreadsheet and more like a modern AI intelligence console.
+
+🛠️ Technology Stack
 
 Frontend
 
 React
-
-JavaScript / TypeScript
-
+TypeScript / JavaScript
 Tailwind CSS
-
-Responsive UI components
-
-Charting/visualization library
+Responsive UI
+Data Visualization
 
 Backend
 
 Node.js
-
 Express.js
-
 REST APIs
+Authentication & Authorization
 
 AI / Analytics
 
 Python
-
-Machine Learning models
-
+Machine Learning
+Deep Learning
 Natural Language Processing
-
 Generative AI
-
-Employee skill and performance analysis
+Recommendation Systems
 
 Database
 
 MongoDB / PostgreSQL
-
-Employee profiles
-
+Employee Profiles
 Skills
+Analytics Results
+Feedback
 
-Analytics results
+Update this section according to the technologies actually used in
+your implementation.
 
-Feedback records
-
-Adapt this section to match the technologies actually used in your
-implementation.
-
-📁 Recommended Project Structure
+📁 Project Structure
 
 ElevateHR/
 │
@@ -332,12 +380,15 @@ ElevateHR/
 │   ├── inference/
 │   └── requirements.txt
 │
-├── public/
+├── docs/
+│   └── screenshots/
 │
+├── .env.example
+├── .gitignore
 ├── README.md
-└── .gitignore
+└── package.json
 
-⚙️ Getting Started
+⚡ Getting Started
 
 1. Clone the repository
 
@@ -346,166 +397,134 @@ cd elevatehr
 
 2. Install dependencies
 
-For the frontend:
+Frontend
 
 cd frontend
 npm install
 
-For the backend:
+Backend
 
 cd ../backend
 npm install
 
-For the AI service:
+AI Service
 
 cd ../ai
 pip install -r requirements.txt
 
 3. Configure environment variables
 
-Create a .env file for the services that require configuration.
-
-Example:
+Create a .env file:
 
 PORT=5000
 DATABASE_URL=your_database_url
 AI_API_KEY=your_ai_api_key
 
-Never commit API keys, passwords, database credentials, or other secrets
-to GitHub.
+⚠️ Never commit API keys, passwords, database credentials, or other
+secrets to GitHub.
 
-4. Run the application
+4. Start the application
 
-Start the required frontend, backend, and AI services according to your
-project setup.
+Run the frontend, backend, and AI services according to your project
+configuration.
 
-🔐 Privacy & Responsible AI
+🔐 Responsible AI
 
-Because HR analytics can influence important workplace decisions,
-responsible AI practices are essential.
+HR analytics can influence important workplace decisions. ElevateHR
+should therefore be used as a decision-support system, not as an
+autonomous hiring or promotion authority.
 
-ElevateHR should be designed with:
+The platform should prioritize:
 
-Data privacy
+🔒 Data privacy
 
-Secure authentication
+🛡️ Secure authentication
 
-Role-based access
+👤 Role-based access
 
-Encrypted communication
+🔐 Encrypted communication
 
-Explainable recommendations
+🔍 Explainable recommendations
 
-Human review of AI decisions
+⚖️ Bias monitoring
 
-Bias monitoring
+🧑‍💼 Human review
 
-Minimal collection of employee data
+📉 Minimal data collection
 
-AI-generated scores and recommendations should be treated as
-decision-support signals, not automatic employment decisions.
+AI provides the insight. Humans make the decision.
 
-🔮 Future Enhancements
+🔮 Future Roadmap
 
 📊 Advanced workforce dashboards
 
-📈 Employee growth forecasting
-
 🤖 Conversational HR assistant
 
-🧬 Advanced skill graphs
+🧬 Employee skill graph
 
-🎓 Automated learning-path generation
+🎓 Automated learning paths
 
-🔐 Role-based authentication
+📈 Employee growth forecasting
 
-📱 Mobile-responsive analytics dashboard
+🔔 Skill-gap alerts
 
 📄 Automated HR reports
 
-🔔 Skill-gap and training alerts
+🔐 Enterprise role-based access
+
+🔄 HRMS integrations
 
 🧠 More explainable AI recommendations
 
-🔄 Integration with existing HRMS platforms
-
-🌟 Why ElevateHR?
-
-ElevateHR is built around one simple idea:
-
-Employee data should do more than sit in a database. It should help
-organizations understand, develop, and empower their people.
-
-By combining workforce data with AI-powered analytics, ElevateHR aims to
-make HR decisions faster, more informed, and more
-development-focused.
-
-📸 Screenshots
-
-Add your project screenshots inside a folder such as:
-
-docs/
-└── screenshots/
-    ├── hero.png
-    ├── analytics.png
-    ├── why-elevatehr.png
-    ├── about.png
-    ├── testimonials.png
-    └── feedback.png
-
-Then display them in this section:
-
-![ElevateHR Hero](docs/screenshots/hero.png)
-
-![Employee Analytics](docs/screenshots/analytics.png)
-
-![Why ElevateHR](docs/screenshots/why-elevatehr.png)
-
-![About ElevateHR](docs/screenshots/about.png)
-
-![Feedback](docs/screenshots/feedback.png)
+📱 Mobile-first analytics experience
 
 🤝 Contributing
 
-Contributions are welcome.
+Contributions, ideas, and improvements are welcome.
 
-Fork the repository
-
-Create a feature branch
-
-Make your changes
-
-Commit your changes
-
-Push the branch
-
-Open a Pull Request
-
+# Create a feature branch
 git checkout -b feature/your-feature
+
+# Stage changes
 git add .
+
+# Commit
 git commit -m "Add your feature"
+
+# Push
 git push origin feature/your-feature
+
+Then open a Pull Request.
+
+🧑‍💻 Author
+
+::: {align="center"}
+
+Your Name
+
+AI/ML • Full-Stack Development • Intelligent Systems
+
+GitHub •
+LinkedIn •
+Portfolio
+:::
 
 📄 License
 
 This project is intended for educational, experimental, and
 product-development purposes.
 
-Add your preferred license here, for example MIT License, if
-applicable.
+Add your preferred license here if applicable.
 
-👨‍💻 Author
+::: {align="center"}
 
-Your Name
+⚡ ElevateHR
 
-AI/ML • Full-Stack Development • Data & Intelligent Systems
+Turn workforce data into workforce intelligence.
 
-Replace this section with your GitHub profile, LinkedIn, portfolio, and
-contact information.
+Built with AI • Designed for people • Driven by insights
 
-<p align="center">
+<br/>{=html}
 
-<b>{=html}ElevateHR --- Turn workforce data into workforce
-intelligence.</b>{=html}
-
-</p>
+⭐ If you like this project, consider giving it a star!
+:::
